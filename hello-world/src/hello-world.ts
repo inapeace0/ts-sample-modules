@@ -1,7 +1,7 @@
 export function sayHello() {
-    console.log("Hi");
+    return "Hi";
 }
 
 export function sayGoodbye() {
-    console.log('goodbye');
+    return "Goodbye";
 }
